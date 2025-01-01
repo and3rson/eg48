@@ -7358,7 +7358,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RotaryEncoder_Switch_MP"
+		(property "Value" "EC11E12"
 			(at 52.07 77.4699 90)
 			(effects
 				(font
