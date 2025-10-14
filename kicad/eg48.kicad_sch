@@ -7254,7 +7254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "encoders:ec11e12"
 			(at 49.784 72.39 0)
 			(effects
 				(font
